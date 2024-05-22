@@ -14,6 +14,7 @@
 		BD0421842BFE8D26006FECD1 /* iterationtodoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD0421832BFE8D26006FECD1 /* iterationtodoTests.swift */; };
 		BD04218E2BFE8D26006FECD1 /* iterationtodoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD04218D2BFE8D26006FECD1 /* iterationtodoUITests.swift */; };
 		BD0421902BFE8D26006FECD1 /* iterationtodoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD04218F2BFE8D26006FECD1 /* iterationtodoUITestsLaunchTests.swift */; };
+		BD04219D2BFE8F22006FECD1 /* NewToDoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD04219C2BFE8F22006FECD1 /* NewToDoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		BD0421892BFE8D26006FECD1 /* iterationtodoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iterationtodoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD04218D2BFE8D26006FECD1 /* iterationtodoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iterationtodoUITests.swift; sourceTree = "<group>"; };
 		BD04218F2BFE8D26006FECD1 /* iterationtodoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iterationtodoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BD04219C2BFE8F22006FECD1 /* NewToDoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewToDoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				BD0421722BFE8D22006FECD1 /* iterationtodoApp.swift */,
 				BD0421742BFE8D22006FECD1 /* ContentView.swift */,
+				BD04219C2BFE8F22006FECD1 /* NewToDoView.swift */,
 				BD0421762BFE8D25006FECD1 /* Assets.xcassets */,
 				BD0421782BFE8D25006FECD1 /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD04219D2BFE8F22006FECD1 /* NewToDoView.swift in Sources */,
 				BD0421752BFE8D22006FECD1 /* ContentView.swift in Sources */,
 				BD0421732BFE8D22006FECD1 /* iterationtodoApp.swift in Sources */,
 			);
